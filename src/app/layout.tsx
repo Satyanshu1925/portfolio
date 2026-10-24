@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Satyanshu — Software Developer",
+  title: "Satyanshu — 4× Salesforce Certified Developer",
   description:
-    "Satyanshu Yadav — Software Developer and Certified Salesforce Platform Developer I, with 3.5+ years architecting web applications, customer care portals, and secure API integrations.",
+    "Satyanshu Yadav — 4× Salesforce Certified (Platform Developer I, Agentforce Specialist, Data Cloud Consultant, AI Associate), with 3.5+ years architecting web applications, customer care portals, and secure API integrations.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

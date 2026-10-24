@@ -15,10 +15,19 @@ type Project = {
 
 const roles: Role[] = [
   {
+    title: "Consultant",
+    company: "Deloitte USI",
+    location: "Pune",
+    period: "October 2026 – Present",
+    highlights: [
+      "Delivering Salesforce Life Sciences Cloud solutions for AbbVie, supporting commercial operations in the life sciences domain.",
+    ],
+  },
+  {
     title: "Software Developer",
     company: "Astrea IT Services",
     location: "Noida (Remote)",
-    period: "July 2023 – Present",
+    period: "July 2023 – September 2026",
     highlights: [
       "Designed scalable Component-Driven (LWC/Aura) modules using metadata-driven architectures, enabling dynamic UI updates without code deployments.",
       "Engineered a unified Trigger & Logic Framework to process Policy Lifecycles (endorsements, cancellations) and calculate pro-rata refunds, using Batch Apex for high-volume policy renewals.",
@@ -38,6 +47,14 @@ const roles: Role[] = [
 ];
 
 const projects: Project[] = [
+  {
+    name: "AbbVie",
+    location: "Deloitte USI",
+    tagline: "Life Sciences Cloud for Commercial",
+    highlights: [
+      "Building on Salesforce Life Sciences Cloud to support AbbVie's commercial operations.",
+    ],
+  },
   {
     name: "Kiwibikes Insurance",
     location: "New Zealand",

@@ -25,6 +25,7 @@ const categories: SkillCategory[] = [
       "Sales Cloud",
       "Service Cloud",
       "Experience Cloud",
+      "Life Sciences Cloud",
     ],
   },
   {

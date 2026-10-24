@@ -13,7 +13,8 @@ export default function Hero() {
           Satyanshu
         </h1>
         <p className="mt-4 text-lg font-medium text-foreground/70 sm:text-xl">
-          Software Developer | Certified Salesforce Platform Developer I
+          4× Salesforce Certified · Platform Developer I · Agentforce
+          Specialist · Data Cloud Consultant · AI Associate
         </p>
         <p className="mx-auto mt-6 max-w-2xl text-balance text-base leading-relaxed text-foreground/60 sm:mx-0 sm:text-lg">
           Over 3.5 years of experience architecting web applications,
